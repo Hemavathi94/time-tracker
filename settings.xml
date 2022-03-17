@@ -4,9 +4,9 @@
 
    <servers>
       <server>
-		    <id>cube</id>
-		    <username>${nexus-username}</username>
-        <password>${nexus-password}</password>
-	    </server>
+	      <id>nexusrepo</id>
+	      <username>admin</username>
+              <password>admin123</password>
+      </server>
    </servers>
 </settings>
