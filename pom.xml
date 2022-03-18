@@ -20,8 +20,7 @@
         <pmd.version>3.8</pmd.version>
         <checkstyle.version>2.17</checkstyle.version>
         <sonar.host.url>http://13.233.148.204:9000/</sonar.host.url>
-        <sonar.login>admin</sonar.login>
-        <sonar.password>admin123</sonar.password>
+        <sonar.login>458b7bfa4f7e47cd5ce04a659902c71470912b4e</sonar.login>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
