@@ -29,7 +29,7 @@
         <module>core</module>
         <module>web</module>
     </modules>
-    <distributionManagement>
+    <!-- distributionManagement>
         <repository>
             <id>nexusrepo</id>
             <name>time-tracker</name>
@@ -40,7 +40,7 @@
             <name>time-tracker-snapshot</name>
             <url>http://65.0.205.210:8081/repository/time-tracker-snapshot/</url>
         </snapshotRepository>
-    </distributionManagement>
+    </distributionManagement> -->
      
      
 
