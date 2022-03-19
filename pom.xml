@@ -27,18 +27,7 @@
         <module>core</module>
         <module>web</module>
     </modules>
-    <distributionManagement>
-        <repository>
-            <id>nexus</id>
-            <name>time-tracker</name>
-            <url>http://65.0.81.206:8081/repository/time-tracker-release/</url>
-        </repository>
-        <snapshotRepository>
-            <id>nexusrepo</id>
-            <name>time-tracker-snapshot</name>
-            <url>http://65.0.81.206:8081/repository/time-tracker-snapshot/</url>
-        </snapshotRepository>
-    </distributionManagement> 
+  
      
      
 
