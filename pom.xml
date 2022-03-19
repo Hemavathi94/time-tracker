@@ -31,14 +31,14 @@
     </modules>
     <distributionManagement>
         <repository>
-            <id>nexusrepo</id>
+            <id>nexus</id>
             <name>time-tracker</name>
-            <url>http://65.0.100.31:8081/repository/time-tracker-release/</url>
+            <url>http://65.0.81.206:8081/repository/time-tracker-release/</url>
         </repository>
         <snapshotRepository>
             <id>nexusrepo</id>
             <name>time-tracker-snapshot</name>
-            <url>http://65.0.100.31:8081/repository/time-tracker-snapshot/</url>
+            <url>http://65.0.81.206:8081/repository/time-tracker-snapshot/</url>
         </snapshotRepository>
     </distributionManagement> 
      
