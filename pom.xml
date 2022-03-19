@@ -33,12 +33,12 @@
         <repository>
             <id>nexusrepo</id>
             <name>time-tracker</name>
-            <url>http://13.233.148.204:8081/repository/time-tracker/</url>
+            <url>http://65.0.100.31:8081/repository/time-tracker-release/</url>
         </repository>
         <snapshotRepository>
             <id>nexusrepo</id>
             <name>time-tracker-snapshot</name>
-            <url>http://13.233.148.204:8081/repository/time-tracker-snapshot/</url>
+            <url>http://65.0.100.31:8081/repository/time-tracker-snapshot/</url>
         </snapshotRepository>
     </distributionManagement> 
      
